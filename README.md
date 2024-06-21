@@ -1,4 +1,4 @@
-# JAVA Repository
+# JAVA Repository(OOPS Concept)
 
 This repository contains various Java assignments and projects organized into multiple folders. Each folder corresponds to a different lab assignment, and contains the relevant Java files and output documents. Below is a detailed overview of the contents.
 
@@ -78,12 +78,3 @@ This folder contains additional programming questions and solutions related to O
 - **README.md**: This README file.
 - **tempCodeRunnerFile.java**: Temporary code runner file.
 - **Frame.java** to **temprunnercode.java**: Additional Java source files.
-
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-
-For any questions or contributions, please contact [Your Name] at [Your Email].
-
