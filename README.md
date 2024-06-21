@@ -73,8 +73,6 @@ This repository contains various Java assignments and projects organized into mu
 This folder contains additional programming questions and solutions related to Object-Oriented Programming (OOP). It includes Java files and PDF documents, but the contents are not detailed in this README.
 
 ### Other Java Files
-- **Frame1.java**: Java source file.
+- **Frame1.java**: Java source file for a Frame.
 - **FrameDialog.java**: Java source file for a frame dialog.
-- **README.md**: This README file.
 - **tempCodeRunnerFile.java**: Temporary code runner file.
-- **Frame.java** to **temprunnercode.java**: Additional Java source files.
