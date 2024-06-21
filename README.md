@@ -85,13 +85,27 @@ This folder contains programming questions and solutions related to Object-Orien
 - `ShapeDemoS.java`: Java file for shape demo with squares.
 - `TypeConv.java`: Java file for type conversion.
 - `UppercaseConverter.java`: Java file for converting text to uppercase.
-- `OOPS_Practice_Problems.pdf`: PDF document containing OOP programming problems.
-- `OOPS_Practice_Problems_Sols.pdf`: PDF document containing solutions to the OOP programming problems.
+
+##### OOPS_Programming_Problems.pdf Contents
+- **Q1**: Write a program to create a class named shape. In this class, we have three sub-classes circle, triangle, and square each class has two member functions named draw () and erase (). Create these using polymorphism concepts.
+- **Q2**: Write a program to create automatic type conversions that apply to overriding.
+- **Q3**: Create a class box and box3d. box3d is an extended class of boxes. The above two classes going to fulfill the following requirement:
+  - Include constructor.
+  - Set value of length, breadth, height.
+  - Find out the area and volume.
+  - Note: Base class and sub-classes have respective methods and instance variables.
+- **Q4**: Write a program to accept a specified number of characters as input and convert them into uppercase characters.
+- **Q5**: Write a program to get the input from the user and store it in a file using Reader and Writer files.
+- **Q6**: Write a Java program to create a class called Shape with a method called getArea(). Create a subclass called Rectangle that overrides the getArea() method to calculate the area of a rectangle.
+- **Q7**: Write a Java program that reads a list of integers from the user and throws an exception if any numbers are duplicates.
+- **Q8**: Write a Java program to create a banking system with three classes - Bank, Account, SavingsAccount, and CurrentAccount. The bank should have a list of accounts and methods for adding them. Accounts should be an interface with methods to deposit, withdraw, calculate interest, and view balances. SavingsAccount and CurrentAccount should implement the Account interface and have their own unique methods.
+- **Q9**: Write a Java program to create a class Shape with methods getArea() and getPerimeter(). Create three subclasses: Circle, Rectangle, and Triangle. Override the getArea() and getPerimeter() methods in each subclass to calculate and return the area and perimeter of the respective shapes.
+- **Q10**: Write a Java program to compare two files lexicographically.
 
 ### Other Java Files and Folders
 This section contains additional Java files and folders found in the repository:
 
-- `Frame1.java` to `temprunnercode.java`: Additional Java source files.
+- 'Frame1.java': Java source file for a Frame.
+- 'FrameDialog.java': Java source file for a frame dialog.
+- 'tempCodeRunnerFile.java': Temporary code runner file.
 
-#### README.md
-This README file provides an organized and detailed explanation of the contents of the GitHub repository. Adjust the content as necessary to fit your specific project requirements.
