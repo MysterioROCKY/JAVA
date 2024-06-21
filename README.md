@@ -87,7 +87,7 @@ This folder contains programming questions and solutions related to Object-Orien
 - 'TypeConv.java': Java file for type conversion.
 - 'UppercaseConverter.java': Java file for converting text to uppercase.
 
-#### OOPS_Programming_Problems.pdf Contents
+###### OOPS_Programming_Problems.pdf Contents
 - **Q1**: Write a program to create a class named shape. In this class, we have three sub-classes circle, triangle, and square each class has two member functions named draw () and erase (). Create these using polymorphism concepts.
 - **Q2**: Write a program to create automatic type conversions that apply to overriding.
 - **Q3**: Create a class box and box3d. box3d is an extended class of boxes. The above two classes going to fulfill the following requirement:
@@ -104,8 +104,6 @@ This folder contains programming questions and solutions related to Object-Orien
 - **Q10**: Write a Java program to compare two files lexicographically.
 
 ### Other Java Files
-- 'Frame1.java': Java source file.
+- 'Frame1.java': Java source file for Frame.
 - 'FrameDialog.java': Java source file for a frame dialog.
-- 'README.md': This README file.
 - 'tempCodeRunnerFile.java': Temporary code runner file.
-- 'Frame.java' to 'temprunnercode.java': Additional Java source files.
